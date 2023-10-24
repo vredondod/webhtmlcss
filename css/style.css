@@ -350,7 +350,8 @@ form.form-html5 legend {
     font-size: 20px;
 }
 form.form-html5 label {
-    background-color: rgb(102, 72, 207);
+    background-color: #09c21c;
+    background-color: #000000;
     color: white;
 }
 .cb {
@@ -371,6 +372,6 @@ form.form-html5 label {
     color: white;
 }
 .btn-green {
-    background-color: rgb(9, 194, 28);
+    background-color: #09c21c;
     color: white;
 }
