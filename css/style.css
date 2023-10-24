@@ -155,6 +155,18 @@ a {
     padding: 16px;
 }
 
+.bg-amarillo{
+    background-color: rgb(246, 242, 37);
+}
+.bg-marron{
+    background-color: rgb(196, 117, 14);
+}
+.bg-rosa{
+    background-color: rgb(255, 110, 134);
+}
+.bg-cian{
+    background-color: rgb(59, 194, 131);
+}
 .bg-verde{
     background-color: green;
 }
@@ -162,13 +174,16 @@ a {
     background-color: rgb(0 157 222);
 }
 .bg-azul-c {
-    background-color: rgb(240, 249, 252);
+    background-color: rgb(29, 131, 165);
 }
 .bg-orange {
     background-color: orange;
 }
 .text-white {
     color: white;
+}
+.text-black{
+    color: black
 }
 .text-red {
     color: red;
